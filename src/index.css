@@ -1,0 +1,24 @@
+ul {
+  list-style: none;
+  padding: 0.5rem;
+}
+
+li {
+  display: inline-block;
+  padding-right: 1rem;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+th,
+td {
+  padding: 0.2rem 1rem;
+}
+
+.mb-2 {
+  margin-bottom: 1rem;
+}
